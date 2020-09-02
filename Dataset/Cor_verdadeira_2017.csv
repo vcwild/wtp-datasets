@@ -1,0 +1,13 @@
+DATA DA COLETA,P1 - Entrada ETE Unisinos,P2 / P6 - Saída da ETE Unisinos,P3 - Arroio São João,OBSERVAÇÕES
+2017-01-12,150,40,20,
+2017-02-09,40,30,20,
+2017-03-09,150,50,30,"A coleta neste dia foi realizado no P6, o CBR estava em manutenção."
+2017-04-06,50,50,40,"A coleta neste dia foi realizado no P6, o CBR estava em manutenção."
+2017-05-11,50,30,40,"A coleta neste dia foi realizado no P6, o CBR estava em manutenção."
+2017-06-08,50,30,50,
+2017-07-13,50,30,30,
+2017-08-10,40,20,50,"A coleta neste dia foi realizado no P6, o CBR estava em manutenção."
+2017-09-14,30,50,40,
+2017-10-05,40,10,20,
+2017-11-09,70,50,30,
+2017-12-07,90,45,35,
